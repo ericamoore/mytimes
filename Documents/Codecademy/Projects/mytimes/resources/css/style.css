@@ -1,0 +1,38 @@
+#header {font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: inline-block;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+}
+
+#logo {color: MediumAquamarine;
+display: inline-flex;
+align-items: center;
+padding: 20px;
+}
+#nav {display: inline-flex;
+  justify-content: flex-end;
+  color: black;
+  align-items: center;
+  margin-left: 700px;
+}
+
+#logo p {padding-left: 10px;
+}
+
+ul {display: inline-block;
+justify-content: flex-end;
+align-items: center;
+}
+
+li {display: inline-flex;
+    float: left;
+    padding: 20px;
+}
+li a {
+    display: inline-flex;
+    color: black;
+}
